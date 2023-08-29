@@ -1,0 +1,4 @@
+C:\Users\EmilyFixico\source\repos\ExceptionsYF\ExceptionsYF\obj\Debug\net6.0\ExceptionsYF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilyFixico\source\repos\ExceptionsYF\ExceptionsYF\obj\Debug\net6.0\ExceptionsYF.AssemblyInfoInputs.cache
+C:\Users\EmilyFixico\source\repos\ExceptionsYF\ExceptionsYF\obj\Debug\net6.0\ExceptionsYF.AssemblyInfo.cs
+C:\Users\EmilyFixico\source\repos\ExceptionsYF\ExceptionsYF\obj\Debug\net6.0\ExceptionsYF.csproj.CoreCompileInputs.cache
