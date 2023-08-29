@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EmilyFixico\\source\\repos\\ExceptionsYF\\ExceptionsYF\\ExceptionsYF.csproj",
+      "projectUniqueName": "C:\\Users\\EmilyFixico\\source\\repos\\ExceptionsYF\\ExceptionsYFF\\ExceptionsYF\\ExceptionsYF.csproj",
       "projectName": "ExceptionsYF",
-      "projectPath": "C:\\Users\\EmilyFixico\\source\\repos\\ExceptionsYF\\ExceptionsYF\\ExceptionsYF.csproj",
+      "projectPath": "C:\\Users\\EmilyFixico\\source\\repos\\ExceptionsYF\\ExceptionsYFF\\ExceptionsYF\\ExceptionsYF.csproj",
       "packagesPath": "C:\\Users\\EmilyFixico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EmilyFixico\\source\\repos\\ExceptionsYF\\ExceptionsYF\\obj\\",
+      "outputPath": "C:\\Users\\EmilyFixico\\source\\repos\\ExceptionsYF\\ExceptionsYFF\\ExceptionsYF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
